@@ -1,7 +1,7 @@
 # بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ### Quran JSON
-> 6236 verses, 114 surah, 30 Juz'
+> 114 surah, 30 Juz'
 
 
 ### Folder structure for Qur'an JSON
@@ -37,7 +37,7 @@
 - surah/surah_n.json
 
 ##### Surah ( Arabic ) format
-- surah/surah_SURAHNUMBER.json
+- surah/surah_surah_no.json
 
 ##### Tajweed
 - tajweed/surah_1.json
@@ -45,7 +45,7 @@
 - tajweed/surah_n.json
 
 ##### Tajweed format
-- tajweed/surah_SURAHNUMBER.json
+- tajweed/surah_surah_no.json
 
 ##### Audio
 - audio/002/001.mp3
